@@ -16,4 +16,3 @@ The motive of this project is to cluster bank customers based on their spendings
 
 ## Conclusions:
 The customers have been clustered into 3 groups based on their spendings as high, medium and low spending customers. Based on customer spendings with max payement and probability of full payment appropriate marketing strategies can be applied to increase the payment rates of the customers of each group.
-zfzfdbggf 
