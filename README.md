@@ -7,8 +7,8 @@ The motive of this project is to cluster bank customers based on their spendings
 2. Scikit learn library for implementing clustering algorithms. 
 
 ## Data Visualization:
-1. Box plots to visualize outliers, distribution plots to visualize any skewness in the data.
-2. Heat map to visualize correlation between dependent features.
+1. **Box plots** to visualize outliers, distribution plots to visualize any skewness in the data.
+2. **Heat map** to visualize correlation between dependent features.
 
 ## Algorithms Used:
 1. **Hierarchical clustering** is used, optimal clusters are idnetified using **Dendogram**.
