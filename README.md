@@ -1,1 +1,1 @@
-# Bank_customer_segmentation
+# Bank_customer_market_segmentation
